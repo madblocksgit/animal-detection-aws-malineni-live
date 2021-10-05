@@ -17,3 +17,6 @@ Step - 2: We have to access AWS Rekognition Service through boto3 <br/>
 Step - 3: We have to pass the image to AWS Rekognition Service <br/>
 Step - 4: We have to analyse the response of AWS Rekognition Service <br/>
 Step - 5: We have to script the sounds  <br/>
+
+# Installation Steps
+pip3 install opencv-python
