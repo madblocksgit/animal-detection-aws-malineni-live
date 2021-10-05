@@ -19,5 +19,6 @@ Step - 4: We have to analyse the response of AWS Rekognition Service <br/>
 Step - 5: We have to script the sounds  <br/>
 
 # Installation Steps
-pip3 install opencv-python
-pip3 install awscli
+pip3 install opencv-python <br/>
+pip3 install awscli <br/>
+pip3 install boto3 <br/>
