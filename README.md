@@ -20,3 +20,4 @@ Step - 5: We have to script the sounds  <br/>
 
 # Installation Steps
 pip3 install opencv-python
+pip3 install awscli
